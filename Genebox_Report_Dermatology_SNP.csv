@@ -33,7 +33,7 @@
 32	rs1800896	PMID: 29696068		T>C 	rs361525, rs1800629	https://pubmed.ncbi.nlm.nih.gov/29696068/	NA
 33	 rs9325071 	PMID: 28213955	The skin barrier function gene SPINK5 is associated with challenge-proven IgE-mediated food allergy in infants	A>G,T 		https://pubmed.ncbi.nlm.nih.gov/28213955/	NA
 34	rs3024974 	PMID: 31865311	Association of the STAT6 rs3024974 (C/T) Polymorphism with IgE-Mediated Food Sensitization among West Bengal Population in India	G>A 		https://pubmed.ncbi.nlm.nih.gov/31865311/	NA
-35		PMID: 32796837	Disease-associated KIF3A variants alter gene methylation and expression impacting skin barrier and atopic dermatitis risk	G>A,C,T 		https://pubmed.ncbi.nlm.nih.gov/32796837/	NA
+35	rs11740584	PMID: 32796837	Disease-associated KIF3A variants alter gene methylation and expression impacting skin barrier and atopic dermatitis risk	G>A,C,T 		https://pubmed.ncbi.nlm.nih.gov/32796837/	NA
 36	rs1736936	PMID: 21847675	Promoter polymorphisms of the HLA-G gene, but not the HLA-E and HLA-F genes, is associated with non-segmental vitiligo patients in the Korean population	G>A 	rs1264459, rs9258170	https://pubmed.ncbi.nlm.nih.gov/21847675/	NA
 37		PMID: 22534366	Association between CDK5RAP1 polymorphisms and susceptibility to vitiligo in the Korean population	G>A 		https://pubmed.ncbi.nlm.nih.gov/22534366/	NA
 38	 rs1408944	PMID: 24667117	A comprehensive association analysis confirms ZMIZ1 to be a susceptibility gene for vitiligo in Chinese population	A>G		https://pubmed.ncbi.nlm.nih.gov/24667117/	NA
@@ -49,4 +49,4 @@
 48	rs3745902	PMID: 25867094	Pemphigus is associated with KIR3DL2 expression levels and provides evidence that KIR3DL2 may bind HLA-A3 and A11 in vivo	C>G,T 		https://pubmed.ncbi.nlm.nih.gov/25867094/	NA
 49	rs2042287	PMID: 26721477	Differential gene expression levels might explain association of LAIR2 polymorphisms with pemphigus	C>A,T 	rs2287828,    rs2277974	https://pubmed.ncbi.nlm.nih.gov/26721477/	NA
 50	rs56802430 	PMID: 26721477	Differential gene expression levels might explain association of LAIR2 polymorphisms with pemphigus	A>G		https://pubmed.ncbi.nlm.nih.gov/26721477/	NA
-51		PMID: 27424220	'A 3''UTR polymorphism marks differential KLRG1 mRNA levels through disruption of a miR-584-5p binding site and associates with pemphigus foliaceus susceptibility'	A>G,T 		https://pubmed.ncbi.nlm.nih.gov/27424220/	NA
+51	rs1805672	PMID: 27424220	'A 3''UTR polymorphism marks differential KLRG1 mRNA levels through disruption of a miR-584-5p binding site and associates with pemphigus foliaceus susceptibility'	A>G,T 		https://pubmed.ncbi.nlm.nih.gov/27424220/	NA
